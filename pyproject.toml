@@ -1,0 +1,7 @@
+[project]
+name = "real-time-e-commerce-recommendation-platform-using-lambda-architecture"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
