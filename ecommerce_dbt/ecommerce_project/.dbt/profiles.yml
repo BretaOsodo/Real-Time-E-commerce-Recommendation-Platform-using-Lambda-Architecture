@@ -1,0 +1,45 @@
+ecommerce_production_profiles:
+  outputs:
+    dev:
+      dbname: postgres
+      host: postgres
+      password: postgres
+      port: 5432
+      schema: dev_schema
+      threads: 4
+      type: postgres
+      user: postgres
+    prod:
+      dbname: postgres
+      host: postgres
+      password: postgres
+      port: 5432
+      schema: prod_schema
+      threads: 8
+      type: postgres
+      user: postgres
+  target: dev
+ecommerce_project:
+  outputs:
+    dev:
+      dbname: postgres
+      host: postgres
+      pass: postgres
+      port: 5432
+      schema: dev_schema
+      threads: 4
+      type: postgres
+      user: postgres
+
+    prod:
+      dbname: postgres
+      host: postgres
+      pass: postgres
+      port: 5432
+      schema: dev_schema
+      threads: 4
+      type: postgres
+      user: postgres       
+  target: dev
+
+    

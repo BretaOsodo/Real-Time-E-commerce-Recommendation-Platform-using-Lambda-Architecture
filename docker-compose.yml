@@ -58,6 +58,7 @@ x-airflow-common:
 services:
     postgres:
         image: postgres:16
+        container_name: postgres
         environment:
             - POSTGRES_DB=${POSTGRES_SCHEMA}
             - POSTGRES_USER=${POSTGRES_USER}
