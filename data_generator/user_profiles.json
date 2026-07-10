@@ -1,0 +1,1184 @@
+[
+  {
+    "user_id": "usr_219745fe",
+    "email": "robert.johnson@email.com",
+    "name": {
+      "first": "Robert",
+      "last": "Johnson"
+    },
+    "gender": "female",
+    "age": 50,
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Adidas"
+      ]
+    },
+    "past_purchases": [
+      "ADID-ULTRABOOST",
+      "NIK-AIR-MAX"
+    ],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_17591431",
+    "email": "john.brown@email.com",
+    "name": {
+      "first": "John",
+      "last": "Brown"
+    },
+    "gender": "male",
+    "age": 21,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_2a5fc81e",
+    "email": "patricia.williams@email.com",
+    "name": {
+      "first": "Patricia",
+      "last": "Williams"
+    },
+    "gender": "male",
+    "age": 60,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Salomon",
+        "Nike"
+      ]
+    },
+    "past_purchases": [
+      "ADID-ULTRABOOST",
+      "NIK-AIR-MAX",
+      "ARC-ATOM-M-BLK"
+    ],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_2f9b5b05",
+    "email": "david.garcia@email.com",
+    "name": {
+      "first": "David",
+      "last": "Garcia"
+    },
+    "gender": "female",
+    "age": 23,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Nike",
+        "Arc'teryx"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_97b53f0c",
+    "email": "robert.lopez@email.com",
+    "name": {
+      "first": "Robert",
+      "last": "Lopez"
+    },
+    "gender": "male",
+    "age": 40,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "NIK-AIR-MAX"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_31cdcb79",
+    "email": "michael.martinez@email.com",
+    "name": {
+      "first": "Michael",
+      "last": "Martinez"
+    },
+    "gender": "male",
+    "age": 64,
+    "location": {
+      "city": "San Diego",
+      "state": "CA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "ADID-ULTRABOOST",
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_6f64bf54",
+    "email": "patricia.jones@email.com",
+    "name": {
+      "first": "Patricia",
+      "last": "Jones"
+    },
+    "gender": "female",
+    "age": 21,
+    "location": {
+      "city": "San Diego",
+      "state": "CA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Adidas"
+      ]
+    },
+    "past_purchases": [],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_e494499b",
+    "email": "linda.davis@email.com",
+    "name": {
+      "first": "Linda",
+      "last": "Davis"
+    },
+    "gender": "male",
+    "age": 37,
+    "location": {
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Nike",
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10",
+      "PAT-NANO-M-BLK"
+    ],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_4b182ace",
+    "email": "michael.smith@email.com",
+    "name": {
+      "first": "Michael",
+      "last": "Smith"
+    },
+    "gender": "female",
+    "age": 64,
+    "location": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Salomon"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10",
+      "PAT-NANO-M-BLK"
+    ],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_ec9ebb31",
+    "email": "james.brown@email.com",
+    "name": {
+      "first": "James",
+      "last": "Brown"
+    },
+    "gender": "female",
+    "age": 24,
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_126a8634",
+    "email": "william.hernandez@email.com",
+    "name": {
+      "first": "William",
+      "last": "Hernandez"
+    },
+    "gender": "female",
+    "age": 18,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia",
+        "Adidas"
+      ]
+    },
+    "past_purchases": [],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_3f7c99d3",
+    "email": "susan.smith@email.com",
+    "name": {
+      "first": "Susan",
+      "last": "Smith"
+    },
+    "gender": "male",
+    "age": 38,
+    "location": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx",
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_ae6da6fc",
+    "email": "david.rodriguez@email.com",
+    "name": {
+      "first": "David",
+      "last": "Rodriguez"
+    },
+    "gender": "male",
+    "age": 24,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia",
+        "Nike"
+      ]
+    },
+    "past_purchases": [
+      "ARC-ATOM-M-BLK",
+      "ADID-ULTRABOOST",
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_6cae04c4",
+    "email": "susan.miller@email.com",
+    "name": {
+      "first": "Susan",
+      "last": "Miller"
+    },
+    "gender": "female",
+    "age": 48,
+    "location": {
+      "city": "San Diego",
+      "state": "CA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Adidas",
+        "Nike"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10",
+      "ADID-ULTRABOOST",
+      "NIK-AIR-MAX"
+    ],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_1273ec56",
+    "email": "michael.lopez@email.com",
+    "name": {
+      "first": "Michael",
+      "last": "Lopez"
+    },
+    "gender": "male",
+    "age": 56,
+    "location": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia",
+        "Adidas"
+      ]
+    },
+    "past_purchases": [
+      "NIK-AIR-MAX"
+    ],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_0b7f893f",
+    "email": "robert.smith@email.com",
+    "name": {
+      "first": "Robert",
+      "last": "Smith"
+    },
+    "gender": "female",
+    "age": 57,
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Adidas"
+      ]
+    },
+    "past_purchases": [],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_f490e0fc",
+    "email": "james.lopez@email.com",
+    "name": {
+      "first": "James",
+      "last": "Lopez"
+    },
+    "gender": "male",
+    "age": 41,
+    "location": {
+      "city": "Austin",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx",
+        "Adidas"
+      ]
+    },
+    "past_purchases": [
+      "ARC-ATOM-M-BLK"
+    ],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_3e3d44c5",
+    "email": "elizabeth.hernandez@email.com",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Hernandez"
+    },
+    "gender": "female",
+    "age": 41,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Nike",
+        "Adidas"
+      ]
+    },
+    "past_purchases": [
+      "PAT-NANO-M-BLK",
+      "NIK-AIR-MAX",
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_20ea6639",
+    "email": "linda.garcia@email.com",
+    "name": {
+      "first": "Linda",
+      "last": "Garcia"
+    },
+    "gender": "female",
+    "age": 19,
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx",
+        "Salomon"
+      ]
+    },
+    "past_purchases": [
+      "ARC-ATOM-M-BLK",
+      "PAT-NANO-M-BLK"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_a2c1f132",
+    "email": "jennifer.jones@email.com",
+    "name": {
+      "first": "Jennifer",
+      "last": "Jones"
+    },
+    "gender": "female",
+    "age": 56,
+    "location": {
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Salomon"
+      ]
+    },
+    "past_purchases": [
+      "PAT-NANO-M-BLK"
+    ],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_314db17d",
+    "email": "john.hernandez@email.com",
+    "name": {
+      "first": "John",
+      "last": "Hernandez"
+    },
+    "gender": "male",
+    "age": 26,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx",
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "ARC-ATOM-M-BLK"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_8ac3acd0",
+    "email": "john.williams@email.com",
+    "name": {
+      "first": "John",
+      "last": "Williams"
+    },
+    "gender": "male",
+    "age": 55,
+    "location": {
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx",
+        "Adidas"
+      ]
+    },
+    "past_purchases": [
+      "ADID-ULTRABOOST",
+      "NIK-AIR-MAX"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_a8f5a1e9",
+    "email": "linda.garcia@email.com",
+    "name": {
+      "first": "Linda",
+      "last": "Garcia"
+    },
+    "gender": "female",
+    "age": 25,
+    "location": {
+      "city": "San Diego",
+      "state": "CA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "PAT-NANO-M-BLK",
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_c75e8c67",
+    "email": "linda.johnson@email.com",
+    "name": {
+      "first": "Linda",
+      "last": "Johnson"
+    },
+    "gender": "female",
+    "age": 29,
+    "location": {
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Adidas"
+      ]
+    },
+    "past_purchases": [],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_2762b67b",
+    "email": "mary.jones@email.com",
+    "name": {
+      "first": "Mary",
+      "last": "Jones"
+    },
+    "gender": "male",
+    "age": 41,
+    "location": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx"
+      ]
+    },
+    "past_purchases": [
+      "ADID-ULTRABOOST"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_87a2d60b",
+    "email": "robert.garcia@email.com",
+    "name": {
+      "first": "Robert",
+      "last": "Garcia"
+    },
+    "gender": "male",
+    "age": 18,
+    "location": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx"
+      ]
+    },
+    "past_purchases": [
+      "NIK-AIR-MAX"
+    ],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_e3ca2d71",
+    "email": "john.brown@email.com",
+    "name": {
+      "first": "John",
+      "last": "Brown"
+    },
+    "gender": "male",
+    "age": 24,
+    "location": {
+      "city": "Austin",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "ADID-ULTRABOOST",
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_7aa0aded",
+    "email": "michael.johnson@email.com",
+    "name": {
+      "first": "Michael",
+      "last": "Johnson"
+    },
+    "gender": "male",
+    "age": 30,
+    "location": {
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia",
+        "Adidas"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10",
+      "PAT-NANO-M-BLK",
+      "NIK-AIR-MAX"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_166f2935",
+    "email": "robert.miller@email.com",
+    "name": {
+      "first": "Robert",
+      "last": "Miller"
+    },
+    "gender": "male",
+    "age": 64,
+    "location": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "ARC-ATOM-M-BLK"
+    ],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_94210289",
+    "email": "elizabeth.brown@email.com",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Brown"
+    },
+    "gender": "female",
+    "age": 52,
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "PAT-NANO-M-BLK",
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_a3599466",
+    "email": "jennifer.williams@email.com",
+    "name": {
+      "first": "Jennifer",
+      "last": "Williams"
+    },
+    "gender": "male",
+    "age": 41,
+    "location": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx",
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "ARC-ATOM-M-BLK"
+    ],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_9c23be8b",
+    "email": "michael.brown@email.com",
+    "name": {
+      "first": "Michael",
+      "last": "Brown"
+    },
+    "gender": "male",
+    "age": 65,
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx",
+        "Adidas"
+      ]
+    },
+    "past_purchases": [
+      "ARC-ATOM-M-BLK",
+      "ADID-ULTRABOOST",
+      "PAT-NANO-M-BLK"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_95cee93b",
+    "email": "william.hernandez@email.com",
+    "name": {
+      "first": "William",
+      "last": "Hernandez"
+    },
+    "gender": "male",
+    "age": 45,
+    "location": {
+      "city": "Houston",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx",
+        "Nike"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10",
+      "ARC-ATOM-M-BLK"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_f0a71116",
+    "email": "michael.smith@email.com",
+    "name": {
+      "first": "Michael",
+      "last": "Smith"
+    },
+    "gender": "male",
+    "age": 39,
+    "location": {
+      "city": "Austin",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Adidas",
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "NIK-AIR-MAX",
+      "ADID-ULTRABOOST",
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_345fc7cf",
+    "email": "john.martinez@email.com",
+    "name": {
+      "first": "John",
+      "last": "Martinez"
+    },
+    "gender": "female",
+    "age": 56,
+    "location": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Salomon"
+      ]
+    },
+    "past_purchases": [
+      "PAT-NANO-M-BLK"
+    ],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_3ada57ef",
+    "email": "mary.rodriguez@email.com",
+    "name": {
+      "first": "Mary",
+      "last": "Rodriguez"
+    },
+    "gender": "male",
+    "age": 40,
+    "location": {
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_8335dad0",
+    "email": "mary.smith@email.com",
+    "name": {
+      "first": "Mary",
+      "last": "Smith"
+    },
+    "gender": "male",
+    "age": 55,
+    "location": {
+      "city": "Austin",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Salomon",
+        "Nike"
+      ]
+    },
+    "past_purchases": [],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_97756b6d",
+    "email": "john.martinez@email.com",
+    "name": {
+      "first": "John",
+      "last": "Martinez"
+    },
+    "gender": "female",
+    "age": 22,
+    "location": {
+      "city": "Austin",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Salomon"
+      ]
+    },
+    "past_purchases": [],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_1d6cf8ef",
+    "email": "james.johnson@email.com",
+    "name": {
+      "first": "James",
+      "last": "Johnson"
+    },
+    "gender": "male",
+    "age": 42,
+    "location": {
+      "city": "San Diego",
+      "state": "CA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Arc'teryx"
+      ]
+    },
+    "past_purchases": [
+      "NIK-AIR-MAX"
+    ],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_7cbf9d26",
+    "email": "susan.miller@email.com",
+    "name": {
+      "first": "Susan",
+      "last": "Miller"
+    },
+    "gender": "female",
+    "age": 55,
+    "location": {
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "NIK-AIR-MAX",
+      "PAT-NANO-M-BLK",
+      "ARC-ATOM-M-BLK"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_37689176",
+    "email": "linda.jones@email.com",
+    "name": {
+      "first": "Linda",
+      "last": "Jones"
+    },
+    "gender": "female",
+    "age": 53,
+    "location": {
+      "city": "Houston",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia",
+        "Adidas"
+      ]
+    },
+    "past_purchases": [],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_063b0fb2",
+    "email": "michael.brown@email.com",
+    "name": {
+      "first": "Michael",
+      "last": "Brown"
+    },
+    "gender": "female",
+    "age": 47,
+    "location": {
+      "city": "Houston",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Salomon",
+        "Nike"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_6f721eae",
+    "email": "jennifer.martinez@email.com",
+    "name": {
+      "first": "Jennifer",
+      "last": "Martinez"
+    },
+    "gender": "female",
+    "age": 37,
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia",
+        "Nike"
+      ]
+    },
+    "past_purchases": [
+      "PAT-NANO-M-BLK",
+      "SAL-XULTRA-4-10",
+      "ARC-ATOM-M-BLK"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_d9fe5c69",
+    "email": "david.martinez@email.com",
+    "name": {
+      "first": "David",
+      "last": "Martinez"
+    },
+    "gender": "male",
+    "age": 35,
+    "location": {
+      "city": "San Antonio",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "ADID-ULTRABOOST"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_a9d2fc9f",
+    "email": "robert.garcia@email.com",
+    "name": {
+      "first": "Robert",
+      "last": "Garcia"
+    },
+    "gender": "male",
+    "age": 30,
+    "location": {
+      "city": "San Diego",
+      "state": "CA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Nike",
+        "Salomon"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "user_id": "usr_e0def571",
+    "email": "david.martinez@email.com",
+    "name": {
+      "first": "David",
+      "last": "Martinez"
+    },
+    "gender": "male",
+    "age": 63,
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Salomon",
+        "Nike"
+      ]
+    },
+    "past_purchases": [],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_d68722f7",
+    "email": "mary.smith@email.com",
+    "name": {
+      "first": "Mary",
+      "last": "Smith"
+    },
+    "gender": "female",
+    "age": 21,
+    "location": {
+      "city": "San Diego",
+      "state": "CA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10",
+      "ARC-ATOM-M-BLK"
+    ],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "user_id": "usr_cfb68415",
+    "email": "david.brown@email.com",
+    "name": {
+      "first": "David",
+      "last": "Brown"
+    },
+    "gender": "female",
+    "age": 45,
+    "location": {
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Patagonia",
+        "Nike"
+      ]
+    },
+    "past_purchases": [
+      "SAL-XULTRA-4-10"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_32f0a9de",
+    "email": "mary.garcia@email.com",
+    "name": {
+      "first": "Mary",
+      "last": "Garcia"
+    },
+    "gender": "female",
+    "age": 29,
+    "location": {
+      "city": "San Antonio",
+      "state": "TX"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Salomon"
+      ]
+    },
+    "past_purchases": [
+      "ARC-ATOM-M-BLK"
+    ],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "user_id": "usr_665ccaec",
+    "email": "susan.rodriguez@email.com",
+    "name": {
+      "first": "Susan",
+      "last": "Rodriguez"
+    },
+    "gender": "female",
+    "age": 29,
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "preferences": {
+      "preferred_brands": [
+        "Nike"
+      ]
+    },
+    "past_purchases": [],
+    "loyalty_tier": "Bronze"
+  }
+]

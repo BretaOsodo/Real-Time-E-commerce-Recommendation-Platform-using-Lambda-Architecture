@@ -1,0 +1,51 @@
+user_id,email,first_name,last_name,gender,age,city,state,loyalty_tier
+usr_7e6f10b5,john.smith@email.com,John,Smith,female,63,Philadelphia,PA,Silver
+usr_d632b003,william.smith@email.com,William,Smith,male,36,San Antonio,TX,Bronze
+usr_f0deb02b,mary.johnson@email.com,Mary,Johnson,female,18,San Antonio,TX,Bronze
+usr_0dcae5ef,william.miller@email.com,William,Miller,female,62,New York,NY,Silver
+usr_749f8eca,john.davis@email.com,John,Davis,male,26,San Diego,CA,Silver
+usr_2c95f3d9,michael.miller@email.com,Michael,Miller,male,33,Chicago,IL,Bronze
+usr_b1c2db84,william.miller@email.com,William,Miller,female,20,Houston,TX,Bronze
+usr_5f0aef42,michael.rodriguez@email.com,Michael,Rodriguez,female,56,Chicago,IL,Bronze
+usr_4c418bab,elizabeth.lopez@email.com,Elizabeth,Lopez,male,41,New York,NY,Silver
+usr_c55245d2,james.hernandez@email.com,James,Hernandez,male,23,Chicago,IL,Bronze
+usr_0d132a91,robert.lopez@email.com,Robert,Lopez,male,48,Los Angeles,CA,Silver
+usr_f1292298,linda.hernandez@email.com,Linda,Hernandez,male,58,New York,NY,Silver
+usr_d3b5449a,jennifer.lopez@email.com,Jennifer,Lopez,male,61,San Diego,CA,Gold
+usr_ccc112d9,james.martinez@email.com,James,Martinez,female,23,San Antonio,TX,Bronze
+usr_251718f0,mary.rodriguez@email.com,Mary,Rodriguez,male,19,San Diego,CA,Silver
+usr_5eb4afb8,jennifer.williams@email.com,Jennifer,Williams,female,50,San Diego,CA,Gold
+usr_344ed78d,william.garcia@email.com,William,Garcia,female,63,New York,NY,Bronze
+usr_8063f6f5,william.brown@email.com,William,Brown,female,30,San Diego,CA,Bronze
+usr_a1d73429,patricia.davis@email.com,Patricia,Davis,female,46,San Diego,CA,Gold
+usr_c20af1d4,john.miller@email.com,John,Miller,female,39,Philadelphia,PA,Bronze
+usr_1a4df5c2,michael.miller@email.com,Michael,Miller,female,40,Dallas,TX,Gold
+usr_b6bc1ea9,david.johnson@email.com,David,Johnson,female,43,Los Angeles,CA,Silver
+usr_a6a94326,john.brown@email.com,John,Brown,male,30,San Diego,CA,Gold
+usr_6954a48a,david.brown@email.com,David,Brown,male,20,Austin,TX,Gold
+usr_6b038e6e,linda.hernandez@email.com,Linda,Hernandez,female,58,San Diego,CA,Gold
+usr_63ab305c,patricia.williams@email.com,Patricia,Williams,female,51,Chicago,IL,Bronze
+usr_d720f014,mary.johnson@email.com,Mary,Johnson,female,53,New York,NY,Silver
+usr_f8bda923,william.jones@email.com,William,Jones,female,65,Phoenix,AZ,Gold
+usr_e58f0064,mary.brown@email.com,Mary,Brown,female,35,Los Angeles,CA,Bronze
+usr_2e21d807,jennifer.williams@email.com,Jennifer,Williams,male,48,Los Angeles,CA,Bronze
+usr_8782ae38,james.jones@email.com,James,Jones,female,39,Dallas,TX,Silver
+usr_2879afa4,linda.williams@email.com,Linda,Williams,female,37,Dallas,TX,Silver
+usr_1f530d08,patricia.hernandez@email.com,Patricia,Hernandez,female,24,Philadelphia,PA,Silver
+usr_ced7214c,robert.smith@email.com,Robert,Smith,female,26,Los Angeles,CA,Bronze
+usr_8524a547,michael.williams@email.com,Michael,Williams,female,25,Austin,TX,Gold
+usr_d6c5de6c,elizabeth.miller@email.com,Elizabeth,Miller,female,24,Chicago,IL,Bronze
+usr_1490b2bb,james.miller@email.com,James,Miller,female,30,Los Angeles,CA,Bronze
+usr_e8289dd8,john.garcia@email.com,John,Garcia,female,42,Dallas,TX,Gold
+usr_2a9d4e34,susan.smith@email.com,Susan,Smith,female,59,Los Angeles,CA,Bronze
+usr_1e6c5842,john.rodriguez@email.com,John,Rodriguez,female,29,San Antonio,TX,Gold
+usr_c90b9c47,james.rodriguez@email.com,James,Rodriguez,male,36,Chicago,IL,Bronze
+usr_cda66e15,robert.brown@email.com,Robert,Brown,female,25,Philadelphia,PA,Silver
+usr_41fa3899,susan.miller@email.com,Susan,Miller,female,32,Chicago,IL,Bronze
+usr_c331da92,john.martinez@email.com,John,Martinez,male,33,Chicago,IL,Bronze
+usr_39add3f4,elizabeth.brown@email.com,Elizabeth,Brown,male,61,Dallas,TX,Bronze
+usr_3869b4dc,william.davis@email.com,William,Davis,female,44,Austin,TX,Silver
+usr_483a9ed9,jennifer.martinez@email.com,Jennifer,Martinez,male,20,Austin,TX,Bronze
+usr_ff82fec7,patricia.martinez@email.com,Patricia,Martinez,male,35,Dallas,TX,Gold
+usr_2726f390,linda.hernandez@email.com,Linda,Hernandez,male,60,Philadelphia,PA,Bronze
+usr_47a7733c,patricia.williams@email.com,Patricia,Williams,male,33,Austin,TX,Gold
