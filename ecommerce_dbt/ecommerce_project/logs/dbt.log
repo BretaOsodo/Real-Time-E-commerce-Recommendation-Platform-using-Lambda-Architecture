@@ -1,0 +1,42 @@
+[0m07:31:00.902408 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a820996c0d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a820864efd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a82086166d0>]}
+
+
+============================== 07:31:00.914241 | 20b77740-fe35-45f6-a97d-23d6b1816786 ==============================
+[0m07:31:00.914241 [info ] [MainThread]: Running with dbt=1.11.6
+[0m07:31:00.916611 [debug] [MainThread]: running dbt with arguments {'no_print': 'None', 'use_colors': 'True', 'printer_width': '80', 'write_json': 'True', 'send_anonymous_usage_stats': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'warn_error': 'None', 'empty': 'None', 'invocation_command': 'dbt init ecommerce_project', 'indirect_selection': 'eager', 'version_check': 'True', 'use_experimental_parser': 'False', 'quiet': 'False', 'log_format': 'default', 'fail_fast': 'False', 'target_path': 'None', 'cache_selected_only': 'False', 'introspect': 'True', 'profiles_dir': '/root/.dbt', 'debug': 'False', 'partial_parse': 'True', 'static_parser': 'True', 'log_path': 'logs', 'log_cache_events': 'False'}
+[0m07:31:00.941364 [debug] [MainThread]: Starter project path: /usr/local/lib/python3.11/site-packages/dbt/include/starter_project
+[0m07:31:01.138734 [info ] [MainThread]: 
+Your new dbt project "ecommerce_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m07:31:01.140981 [info ] [MainThread]: Setting up your profile.
+[0m07:34:51.240290 [info ] [MainThread]: Profile ecommerce_project written to /root/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m07:34:51.245247 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 230.4662, "process_in_blocks": "40685", "process_kernel_time": 1.058959, "process_mem_max_rss": "111132", "process_out_blocks": "3120", "process_user_time": 3.779187}
+[0m07:34:51.247427 [debug] [MainThread]: Command `dbt init` succeeded at 07:34:51.247147 after 230.47 seconds
+[0m07:34:51.249694 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a820cfe63d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a820cfe6590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7a8208626b90>]}
+[0m07:34:51.251544 [debug] [MainThread]: Flushing usage events
+[0m07:34:52.688365 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m07:44:51.553580 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x77532f583c10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x77532f583550>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x77532f5839d0>]}
+
+
+============================== 07:44:51.564111 | 82e170b5-5bea-4472-b280-56a408c30b57 ==============================
+[0m07:44:51.564111 [info ] [MainThread]: Running with dbt=1.11.6
+[0m07:44:51.566766 [debug] [MainThread]: running dbt with arguments {'introspect': 'True', 'send_anonymous_usage_stats': 'True', 'empty': 'None', 'write_json': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'debug': 'False', 'printer_width': '80', 'log_path': 'logs', 'partial_parse': 'True', 'invocation_command': 'dbt init ecommerce_project', 'static_parser': 'True', 'use_colors': 'True', 'quiet': 'False', 'cache_selected_only': 'False', 'target_path': 'None', 'indirect_selection': 'eager', 'log_format': 'default', 'profiles_dir': '/root/.dbt', 'use_experimental_parser': 'False', 'no_print': 'None', 'fail_fast': 'False', 'log_cache_events': 'False', 'version_check': 'True', 'warn_error': 'None'}
+[0m07:44:51.589615 [info ] [MainThread]: A project called ecommerce_project already exists here.
+[0m07:44:51.592677 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 0.14367796, "process_in_blocks": "11441", "process_kernel_time": 0.573357, "process_mem_max_rss": "106908", "process_out_blocks": "3120", "process_user_time": 3.016181}
+[0m07:44:51.594862 [debug] [MainThread]: Command `dbt init` succeeded at 07:44:51.594549 after 0.15 seconds
+[0m07:44:51.597140 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x77532f5a5dd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x77532f5c8450>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7753341715d0>]}
+[0m07:44:51.599004 [debug] [MainThread]: Flushing usage events
+[0m07:44:51.615021 [debug] [MainThread]: An error was encountered while trying to flush usage events

@@ -1,0 +1,51 @@
+user_id,email,first_name,last_name,gender,age,city,state,loyalty_tier
+usr_d7676c9d,linda.brown@email.com,Linda,Brown,female,44,San Diego,CA,Silver
+usr_f9d832f4,elizabeth.martinez@email.com,Elizabeth,Martinez,male,28,New York,NY,Gold
+usr_85b7cd8d,elizabeth.smith@email.com,Elizabeth,Smith,female,43,San Diego,CA,Silver
+usr_8001c959,robert.jones@email.com,Robert,Jones,female,19,San Diego,CA,Gold
+usr_5425c015,william.williams@email.com,William,Williams,male,40,Austin,TX,Bronze
+usr_1fea2276,david.brown@email.com,David,Brown,female,62,Philadelphia,PA,Bronze
+usr_fc3211c0,patricia.johnson@email.com,Patricia,Johnson,female,24,Philadelphia,PA,Bronze
+usr_7c009c3e,robert.johnson@email.com,Robert,Johnson,male,21,Dallas,TX,Gold
+usr_c53db4c4,mary.miller@email.com,Mary,Miller,male,57,Philadelphia,PA,Gold
+usr_078a29f9,jennifer.williams@email.com,Jennifer,Williams,female,20,Phoenix,AZ,Bronze
+usr_5c4c2782,linda.jones@email.com,Linda,Jones,male,36,Los Angeles,CA,Silver
+usr_8a110540,john.garcia@email.com,John,Garcia,male,41,Phoenix,AZ,Bronze
+usr_cb8c892b,patricia.martinez@email.com,Patricia,Martinez,female,28,San Diego,CA,Silver
+usr_0df657b8,david.lopez@email.com,David,Lopez,female,31,Phoenix,AZ,Bronze
+usr_fb0ac6a6,patricia.hernandez@email.com,Patricia,Hernandez,female,34,San Diego,CA,Silver
+usr_91ed9530,john.hernandez@email.com,John,Hernandez,female,48,Philadelphia,PA,Bronze
+usr_47e82849,william.lopez@email.com,William,Lopez,female,50,Austin,TX,Bronze
+usr_d332e1f0,william.lopez@email.com,William,Lopez,male,21,Philadelphia,PA,Gold
+usr_dc5edda0,michael.hernandez@email.com,Michael,Hernandez,female,33,Houston,TX,Silver
+usr_91768746,susan.williams@email.com,Susan,Williams,female,56,Austin,TX,Silver
+usr_86e35f75,elizabeth.miller@email.com,Elizabeth,Miller,male,35,San Diego,CA,Bronze
+usr_1942dbbd,elizabeth.davis@email.com,Elizabeth,Davis,male,23,San Diego,CA,Silver
+usr_a59f3837,susan.brown@email.com,Susan,Brown,female,46,Philadelphia,PA,Silver
+usr_0e478cb2,linda.garcia@email.com,Linda,Garcia,male,31,Dallas,TX,Bronze
+usr_68606190,david.davis@email.com,David,Davis,male,63,Dallas,TX,Gold
+usr_92996901,susan.williams@email.com,Susan,Williams,male,49,New York,NY,Gold
+usr_b9397538,david.jones@email.com,David,Jones,female,25,San Antonio,TX,Gold
+usr_5e2152a6,jennifer.miller@email.com,Jennifer,Miller,male,42,Austin,TX,Bronze
+usr_c2a56b60,michael.miller@email.com,Michael,Miller,male,60,Austin,TX,Silver
+usr_9edd962d,linda.garcia@email.com,Linda,Garcia,male,23,Dallas,TX,Gold
+usr_9d6a9915,elizabeth.davis@email.com,Elizabeth,Davis,male,27,Phoenix,AZ,Gold
+usr_be73ffa7,michael.brown@email.com,Michael,Brown,male,27,Dallas,TX,Gold
+usr_5f9a3814,patricia.lopez@email.com,Patricia,Lopez,male,57,Los Angeles,CA,Bronze
+usr_41b13c8b,james.williams@email.com,James,Williams,female,39,San Diego,CA,Gold
+usr_743948b5,jennifer.rodriguez@email.com,Jennifer,Rodriguez,male,29,San Diego,CA,Gold
+usr_e679bab7,michael.martinez@email.com,Michael,Martinez,male,23,New York,NY,Bronze
+usr_c64413ea,susan.miller@email.com,Susan,Miller,female,23,Dallas,TX,Gold
+usr_a8655803,michael.garcia@email.com,Michael,Garcia,female,26,Philadelphia,PA,Bronze
+usr_ad961c2b,john.martinez@email.com,John,Martinez,male,65,Dallas,TX,Bronze
+usr_0999164b,james.lopez@email.com,James,Lopez,male,58,Dallas,TX,Gold
+usr_92869a54,david.johnson@email.com,David,Johnson,male,35,Phoenix,AZ,Silver
+usr_bc3ce846,mary.garcia@email.com,Mary,Garcia,female,36,Los Angeles,CA,Bronze
+usr_63be6d0c,mary.johnson@email.com,Mary,Johnson,female,53,Austin,TX,Bronze
+usr_71588e49,robert.jones@email.com,Robert,Jones,female,60,San Antonio,TX,Bronze
+usr_c96cb409,susan.jones@email.com,Susan,Jones,male,20,Houston,TX,Gold
+usr_fb3295ec,susan.jones@email.com,Susan,Jones,female,23,San Antonio,TX,Silver
+usr_d0cefcf7,william.smith@email.com,William,Smith,female,52,Houston,TX,Silver
+usr_739aa0f1,john.garcia@email.com,John,Garcia,male,65,Austin,TX,Bronze
+usr_45c48125,robert.garcia@email.com,Robert,Garcia,male,19,San Diego,CA,Silver
+usr_ad7ce7fc,david.davis@email.com,David,Davis,female,59,San Antonio,TX,Bronze

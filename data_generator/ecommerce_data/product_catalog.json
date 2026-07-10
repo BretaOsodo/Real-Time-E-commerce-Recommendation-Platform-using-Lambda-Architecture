@@ -1,0 +1,42 @@
+[
+  {
+    "sku": "ARC-ATOM-M-BLK",
+    "name": "Atom Hoody",
+    "brand": "Arc'teryx",
+    "category": "Jackets",
+    "price": 259.99,
+    "in_stock": true
+  },
+  {
+    "sku": "SAL-XULTRA-4-10",
+    "name": "X Ultra 4 GTX",
+    "brand": "Salomon",
+    "category": "Footwear",
+    "price": 174.95,
+    "in_stock": true
+  },
+  {
+    "sku": "PAT-NANO-M-BLK",
+    "name": "Nano Puff Hoody",
+    "brand": "Patagonia",
+    "category": "Jackets",
+    "price": 249.0,
+    "in_stock": true
+  },
+  {
+    "sku": "NIK-AIR-MAX",
+    "name": "Air Max 270",
+    "brand": "Nike",
+    "category": "Footwear",
+    "price": 150.0,
+    "in_stock": true
+  },
+  {
+    "sku": "ADID-ULTRABOOST",
+    "name": "Ultraboost 22",
+    "brand": "Adidas",
+    "category": "Footwear",
+    "price": 180.0,
+    "in_stock": true
+  }
+]

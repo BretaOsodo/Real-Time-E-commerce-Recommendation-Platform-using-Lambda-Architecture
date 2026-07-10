@@ -1,0 +1,51 @@
+user_id,email,first_name,last_name,gender,age,city,state,loyalty_tier
+usr_219745fe,robert.johnson@email.com,Robert,Johnson,female,50,Philadelphia,PA,Bronze
+usr_17591431,john.brown@email.com,John,Brown,male,21,Phoenix,AZ,Silver
+usr_2a5fc81e,patricia.williams@email.com,Patricia,Williams,male,60,Los Angeles,CA,Silver
+usr_2f9b5b05,david.garcia@email.com,David,Garcia,female,23,Phoenix,AZ,Gold
+usr_97b53f0c,robert.lopez@email.com,Robert,Lopez,male,40,Phoenix,AZ,Gold
+usr_31cdcb79,michael.martinez@email.com,Michael,Martinez,male,64,San Diego,CA,Gold
+usr_6f64bf54,patricia.jones@email.com,Patricia,Jones,female,21,San Diego,CA,Silver
+usr_e494499b,linda.davis@email.com,Linda,Davis,male,37,Dallas,TX,Silver
+usr_4b182ace,michael.smith@email.com,Michael,Smith,female,64,New York,NY,Silver
+usr_ec9ebb31,james.brown@email.com,James,Brown,female,24,Philadelphia,PA,Gold
+usr_126a8634,william.hernandez@email.com,William,Hernandez,female,18,Los Angeles,CA,Silver
+usr_3f7c99d3,susan.smith@email.com,Susan,Smith,male,38,New York,NY,Bronze
+usr_ae6da6fc,david.rodriguez@email.com,David,Rodriguez,male,24,Phoenix,AZ,Bronze
+usr_6cae04c4,susan.miller@email.com,Susan,Miller,female,48,San Diego,CA,Silver
+usr_1273ec56,michael.lopez@email.com,Michael,Lopez,male,56,Chicago,IL,Silver
+usr_0b7f893f,robert.smith@email.com,Robert,Smith,female,57,Philadelphia,PA,Bronze
+usr_f490e0fc,james.lopez@email.com,James,Lopez,male,41,Austin,TX,Silver
+usr_3e3d44c5,elizabeth.hernandez@email.com,Elizabeth,Hernandez,female,41,Los Angeles,CA,Silver
+usr_20ea6639,linda.garcia@email.com,Linda,Garcia,female,19,Philadelphia,PA,Gold
+usr_a2c1f132,jennifer.jones@email.com,Jennifer,Jones,female,56,Dallas,TX,Bronze
+usr_314db17d,john.hernandez@email.com,John,Hernandez,male,26,Phoenix,AZ,Gold
+usr_8ac3acd0,john.williams@email.com,John,Williams,male,55,Dallas,TX,Gold
+usr_a8f5a1e9,linda.garcia@email.com,Linda,Garcia,female,25,San Diego,CA,Silver
+usr_c75e8c67,linda.johnson@email.com,Linda,Johnson,female,29,Dallas,TX,Bronze
+usr_2762b67b,mary.jones@email.com,Mary,Jones,male,41,Chicago,IL,Gold
+usr_87a2d60b,robert.garcia@email.com,Robert,Garcia,male,18,Chicago,IL,Silver
+usr_e3ca2d71,john.brown@email.com,John,Brown,male,24,Austin,TX,Gold
+usr_7aa0aded,michael.johnson@email.com,Michael,Johnson,male,30,Dallas,TX,Gold
+usr_166f2935,robert.miller@email.com,Robert,Miller,male,64,Chicago,IL,Silver
+usr_94210289,elizabeth.brown@email.com,Elizabeth,Brown,female,52,Phoenix,AZ,Bronze
+usr_a3599466,jennifer.williams@email.com,Jennifer,Williams,male,41,Chicago,IL,Bronze
+usr_9c23be8b,michael.brown@email.com,Michael,Brown,male,65,Los Angeles,CA,Gold
+usr_95cee93b,william.hernandez@email.com,William,Hernandez,male,45,Houston,TX,Gold
+usr_f0a71116,michael.smith@email.com,Michael,Smith,male,39,Austin,TX,Gold
+usr_345fc7cf,john.martinez@email.com,John,Martinez,female,56,Chicago,IL,Bronze
+usr_3ada57ef,mary.rodriguez@email.com,Mary,Rodriguez,male,40,Dallas,TX,Gold
+usr_8335dad0,mary.smith@email.com,Mary,Smith,male,55,Austin,TX,Gold
+usr_97756b6d,john.martinez@email.com,John,Martinez,female,22,Austin,TX,Gold
+usr_1d6cf8ef,james.johnson@email.com,James,Johnson,male,42,San Diego,CA,Bronze
+usr_7cbf9d26,susan.miller@email.com,Susan,Miller,female,55,Dallas,TX,Gold
+usr_37689176,linda.jones@email.com,Linda,Jones,female,53,Houston,TX,Bronze
+usr_063b0fb2,michael.brown@email.com,Michael,Brown,female,47,Houston,TX,Bronze
+usr_6f721eae,jennifer.martinez@email.com,Jennifer,Martinez,female,37,Philadelphia,PA,Gold
+usr_d9fe5c69,david.martinez@email.com,David,Martinez,male,35,San Antonio,TX,Gold
+usr_a9d2fc9f,robert.garcia@email.com,Robert,Garcia,male,30,San Diego,CA,Silver
+usr_e0def571,david.martinez@email.com,David,Martinez,male,63,Philadelphia,PA,Bronze
+usr_d68722f7,mary.smith@email.com,Mary,Smith,female,21,San Diego,CA,Bronze
+usr_cfb68415,david.brown@email.com,David,Brown,female,45,Dallas,TX,Gold
+usr_32f0a9de,mary.garcia@email.com,Mary,Garcia,female,29,San Antonio,TX,Gold
+usr_665ccaec,susan.rodriguez@email.com,Susan,Rodriguez,female,29,Philadelphia,PA,Bronze
